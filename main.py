@@ -1,3 +1,8 @@
+#Manba bilan ishlating
+#Ilhom Jabborov
+#Youtube: https://www.youtube.com/@JabborovIlhom
+#GitHub: https://github.com/IlhomJabborov
+
 from keyloger import Keylogger
 
 
